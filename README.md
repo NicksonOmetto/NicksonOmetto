@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Meu sonho é ser um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou estudando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando elaborar projetos em Front-end e Back-end usando Html, Css, JavaScript, React, Nodejs, e Sql
